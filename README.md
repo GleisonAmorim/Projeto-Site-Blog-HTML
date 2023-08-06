@@ -11,7 +11,7 @@ Integração de imagens e elementos visuais que refletem a identidade artística
 Interatividade e animações para aprimorar a experiência do usuário.
 Uso de Java e CDD (se você estiver se referindo a uma tecnologia específica, descreva-a em mais detalhes) para melhorar a interatividade e o desempenho do site.
 Tecnologias Utilizadas:
-![1222](https://github.com/GleisonAmorim/Projeto-Site-HTML/assets/54336609/ffddde12-d2d3-43f1-bab2-c792b53c1cbd)
+
 
 HTML, CSS e JavaScript para o desenvolvimento front-end.
 Java para aprimorar a interatividade do site.
@@ -33,7 +33,7 @@ Nota: Lembre-se de substituir "Nome do Repositório" pelo nome real do repositó
 ![Uploading 1222.jpg…]()
 ![11](https://github.com/GleisonAmorim/Projeto-Site-HTML/assets/54336609/7843f2d9-978a-4166-83dd-de55927aceea)
 
-
+![1222](https://github.com/GleisonAmorim/Projeto-Site-HTML/assets/54336609/ffddde12-d2d3-43f1-bab2-c792b53c1cbd)
 
 
 
