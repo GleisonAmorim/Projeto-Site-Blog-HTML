@@ -28,7 +28,7 @@ Se você é apaixonado por desenvolvimento web e deseja contribuir para uma inic
 
 Nota: Lembre-se de substituir "Nome do Repositório" pelo nome real do repositório que você criou para o projeto da home page da artista blogueira. Além disso, personalize o resumo com detalhes específicos do seu projeto para torná-lo mais relevante para os visitantes do seu perfil no GitHub.
 
-
+Acesse: https://arcanamajor-rdeur8elv-gleisonamorim.vercel.app/
 
 ![Uploading 1222.jpg…]()
 ![11](https://github.com/GleisonAmorim/Projeto-Site-HTML/assets/54336609/7843f2d9-978a-4166-83dd-de55927aceea)
