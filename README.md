@@ -37,7 +37,7 @@ Acesse: https://arcanamajor-rdeur8elv-gleisonamorim.vercel.app/
 
 26/08/2023 - Atualizações :
 
-Projeto será remodelado completamente para versão Anime, vou incluir um sistema "Gacha" com o sorteio de cards para a blogueira em questão.
+Projeto será remodelado completamente para versão uma versão sexy anime, vou incluir um sistema "Gacha" com o sorteio de cards para a blogueira em questão.
 
 "O gacha é uma mecânica dentro dos jogos, que consistem nos jogadores gastarem moedas virtuais, com investimento de dinheiro real. As moedas virtuais são trocadas por benefícios dentro do jogo, como personagens, armas ou itens especiais.
 Esse estilo se tornou popular no Japão a partir de 2010. Os jogos para celular gratuitos foram os primeiros a aderirem à mecânica e acabou se tornando comum que os games mobile japoneses viessem acompanhados pelo formato."
