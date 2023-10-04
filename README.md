@@ -26,28 +26,28 @@ Expandir a funcionalidade do projeto com novos recursos e páginas.
 Colaborar com outros artistas e blogueiros para criar uma plataforma de expressão artística online.
 Se você é apaixonado por desenvolvimento web e deseja contribuir para uma iniciativa que valoriza a arte e a criatividade, junte-se a nós no projeto "Home Page para Artista Blogueira" e faça parte desta jornada de expressão artística online.
 
-Nota: Lembre-se de substituir "Nome do Repositório" pelo nome real do repositório que você criou para o projeto da home page da artista blogueira. Além disso, personalize o resumo com detalhes específicos do seu projeto para torná-lo mais relevante para os visitantes do seu perfil no GitHub.
 
-Acesse: https://arcanamajor-rdeur8elv-gleisonamorim.vercel.app/
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-Projeto-Site-HTML
-Projetos HTML
 
-Recursos Principais
-Descrição: Este repositório contém o projeto "Home Page para Artista Blogueira", uma iniciativa dedicada a criar uma presença online única e envolvente para uma talentosa artista blogueira. Desenvolvido com HTML, CSS e JavaScript, o projeto apresenta uma página inicial personalizada, com um layout responsivo que integra imagens e elementos visuais para destacar o trabalho da artista.
 
-Recursos Principais:
 
-Página inicial visualmente atraente e responsiva. Integração de imagens e elementos visuais que refletem a identidade artística da artista. Interatividade e animações para aprimorar a experiência do usuário. Uso de Java e CDD (se você estiver se referindo a uma tecnologia específica, descreva-a em mais detalhes) para melhorar a interatividade e o desempenho do site. Tecnologias Utilizadas:
+Project-Site-HTML
+HTML Projects
 
-HTML, CSS e JavaScript para o desenvolvimento front-end. Java para aprimorar a interatividade do site. CDD (se você estiver se referindo a uma tecnologia específica, descreva-a em mais detalhes). Contribuições: Este projeto é de código aberto e aceita contribuições da comunidade. Se você deseja colaborar, sinta-se à vontade para enviar suas solicitações de pull ou abrir novas questões.
+Key Features
+Description: This repository contains the "Home Page for Artist Blogger" project, an initiative dedicated to creating a unique and engaging online presence for a talented artist blogger. Developed with HTML, CSS and JavaScript, the project features a personalized home page, with a responsive layout that integrates images and visual elements to highlight the artist's work.
 
-Objetivos Futuros:
+Key Features:
 
-Aprimorar a acessibilidade e a usabilidade do site. Expandir a funcionalidade do projeto com novos recursos e páginas. Colaborar com outros artistas e blogueiros para criar uma plataforma de expressão artística online. Se você é apaixonado por desenvolvimento web e deseja contribuir para uma iniciativa que valoriza a arte e a criatividade, junte-se a nós no projeto "Home Page para Artista Blogueira" e faça parte desta jornada de expressão artística online.
+Visually appealing and responsive homepage. Integration of images and visual elements that reflect the artist’s artistic identity. Interactivity and animations to enhance the user experience. Use of Java and CDD (if you are referring to a specific technology, please describe it in more detail) to improve site interactivity and performance. Technologies Used:
 
-Nota: Lembre-se de substituir "Nome do Repositório" pelo nome real do repositório que você criou para o projeto da home page da artista blogueira. Além disso, personalize o resumo com detalhes específicos do seu projeto para torná-lo mais relevante para os visitantes do seu perfil no GitHub.
+HTML, CSS and JavaScript for front-end development. Java to improve site interactivity. CDD (if you are referring to a specific technology, please describe it in more detail). Contributions: This project is open source and welcomes contributions from the community. If you want to collaborate, feel free to submit your pull requests or open new issues.
+
+Future Objectives:
+
+Improve website accessibility and usability. Expand project functionality with new features and pages. Collaborate with other artists and bloggers to create a platform for online artistic expression. If you are passionate about web development and want to contribute to an initiative that values ​​art and creativity, join us in the "Home Page for Artist Blogger" project and be part of this journey of online artistic expression.
 
 
 
